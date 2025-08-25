@@ -13,17 +13,21 @@ Education
 ======
 * Ph.D in Electrical Engineering & Computer Sciences, Queen Mary University of London (QMUL), UK,
 2022
+  * Supervisor: Prof. Cunhua Pan
 * M.S. in Information & Communication Engineering, Beijing Institute of Technology (BIT), China,
 2019
+  * Supervisor: Prof. Chengwen Xing
 * B.S. in Information Countermeasure Technology, Beijing Institute of Technology, China,
  2015
 
 Work experience
 ======
-* 03/2025 - Present:  Exchange Staff
+* 09/2025 - Present:  Professor
+   * School of Information, Electronics and Communications, Huazhong University of Science and Technology (HUST), China.
+* 03/2025 - 08/2025:  Exchange Staff
    * Ranplan Wireless - Telecommunication Company, UK.
    * Supervisor: Prof. Jie Zhang
-* 07/2024 - Present:  Research Postdoc
+* 07/2024 - 08/2025:  Research Postdoc
    * Institution of Digital Communications, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU),      
    Germany.
    * Supervisor: Prof. Robert Schober

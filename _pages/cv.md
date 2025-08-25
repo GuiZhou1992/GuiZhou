@@ -46,9 +46,11 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* “Channel Estimation for Reconfigurable Intelligent Surface Aided Systems”, invited by Prof. Dr.-Ing. Martin Haardt, Ilmenau University of Technology, Germany, Sep. 23, 2024.
+*
+*
+*
+*
   
 Teaching
 ======

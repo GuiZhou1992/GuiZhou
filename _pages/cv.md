@@ -28,7 +28,7 @@ Work experience
    * Ranplan Wireless - Telecommunication Company, UK.
    * Supervisor: Prof. Jie Zhang
 * 07/2024 - 08/2025:  Research Postdoc
-   * Institution of Digital Communications, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU),      
+   * Institution of Digital Communications, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU),     
    Germany.
    * Supervisor: Prof. Robert Schober
 * 07/2022 – 06/2024:  Humboldt Postdoc (Humboldt Research Fellowship)
@@ -46,11 +46,10 @@ Publications
   
 Talks
 ======
-* "Radar Rainbow Beams For Wideband mmWave Communication: Beam Training And Tracking", invited by [Prof. Yunfei Chen](https://www.durham.ac.uk/staff/yunfei-chen/), Durham University, UK, 03-06-23.
-* “Channel Estimation for Reconfigurable Intelligent Surface Aided Systems”, invited by [Prof. Dr.-Ing. Martin Haardt](https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/fachgebiet-nachrichtentechnik/team/martin-haardt), Ilmenau University of Technology, Germany, 23-09-2024.
-*
-*
-*
+* "Radar Rainbow Beams For Wideband mmWave Communication: Beam Training And Tracking", invited by [George K. Karagiannidis](http://geokarag.webpages.auth.gr/), Aristotle University of Thessaloniki, Thessaloniki, Greece, 16-06-25.
+* "Radar Rainbow Beams For Wideband mmWave Communication: Beam Training And Tracking", invited by [Prof. Yunfei Chen](https://www.durham.ac.uk/staff/yunfei-chen/), Durham University, Durham, UK, 03-06-25.
+* "Radar Rainbow Beams For Wideband mmWave Communication: Beam Training And Tracking", invited by [Marco Giordani](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=GIORDANI&key=65F301CAFD8465C31DDC7D892F2A4FE1), University of Padova, Padova, Italy, 08-05-25.
+* "Channel Estimation for Reconfigurable Intelligent Surface Aided Systems", invited by [Prof. Dr.-Ing. Martin Haardt](https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/fachgebiet-nachrichtentechnik/team/martin-haardt), Ilmenau University of Technology, Germany, 23-09-2024.
   
 Teaching
 ======

@@ -1,20 +1,16 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Lectures and Tutorials
 ======
+- Multiuser Information and Communications Theory [WS 2024/25]], graduate course, Lehrstuhl für Digitale Übertragung, FAU, with Prof. Dr. Laura Cottatellucci
 
-Heading 2
+Seminars
 ======
+- 6G Seminar on "6G and Beyond: How do future communication systems enable the metaverse?"[WS 2023/2024], undergraduate/graduate course, Lehrstuhl für Digitale Übertragung, FAU, with Prof. Dr.-Ing. Robert Schober
+- IoBNT Seminar on "The Internet of BioNanoThings for Next Generation Health Care Solutions"[WS 2024/2025], undergraduate/graduate course, Lehrstuhl für Digitale Übertragung, FAU, with Prof. Dr.-Ing. Robert Schober
 
-Heading 3
+
+Lab Courses
 ======
+- Mobile Communications Lab Course [WS 2023/2024], graduate course, Lehrstuhl für Digitale Übertragung, FAU, with Prof. Dr.-Ing. Wolfgang Gerstacker
+- Introduction to MATLAB [WS 2024/25], undergraduate/graduate course, Lehrstuhl für Digitale Übertragung, FAU, with Dr.-Ing Clemens Stierstorfer
+- Digital Communications [WS 2024/25], graduate course, Lehrstuhl für Digitale Übertragung, FAU, with Dr.-Ing Clemens Stierstorfer
+<img width="468" height="380" alt="image" src="https://github.com/user-attachments/assets/2318fd7f-bab7-4b1b-a52a-24dd06e2120c" />

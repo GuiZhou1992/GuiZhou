@@ -46,8 +46,8 @@ Publications
   
 Talks
 ======
-* “Channel Estimation for Reconfigurable Intelligent Surface Aided Systems”, invited by Prof. Dr.-Ing. Martin Haardt, Ilmenau University of Technology, Germany, Sep. 23, 2024.
-*
+* "Radar Rainbow Beams For Wideband mmWave Communication: Beam Training And Tracking", invited by [Prof. Yunfei Chen](https://www.durham.ac.uk/staff/yunfei-chen/), Durham University, UK, 03-06-23.
+* “Channel Estimation for Reconfigurable Intelligent Surface Aided Systems”, invited by [Prof. Dr.-Ing. Martin Haardt](https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/fachgebiet-nachrichtentechnik/team/martin-haardt), Ilmenau University of Technology, Germany, 23-09-2024.
 *
 *
 *

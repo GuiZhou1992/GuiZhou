@@ -40,9 +40,7 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  [Google Scholar Profile for Gui](https://scholar.google.com/citations?user=PMLUoekAAAAJ&hl=en)
   
 Talks
 ======
@@ -77,13 +75,16 @@ Professional Activities
 * Conference Technical Program Committee
   * TPC member of IEEE International Conference on Communications (ICC) 2021
 * Reviewer for Journals
+  * Proceedings of the IEEE
   * IEEE Journal on Selected Areas in Communications
+  * IEEE Journal on Selected Topics in Signal Processing
+  * IEEE Transactions on Signal Processing
   * IEEE Transactions on Communications
   * IEEE Transactions on Wireless Communications
-  * IEEE Transactions on Signal Processing
   * IEEE Transactions on Vehicular Technology
   * IEEE Transactions on Green Communications and Networking
-  * IEEE Transactions on Network Science and Engineering
+  * IEEE Transactions on Cognitive Communications and Networking
+  * IEEE Transactions on Mobile Computing
   * IEEE Internet of Things Journal
   * IEEE Wireless Communications
   * IEEE Communications Magazine
@@ -97,7 +98,23 @@ Professional Activities
   * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
   * IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)
   * IEEE Wireless Communications and Networking Conference (WCNC)
-  * IEEE International Symposium on Turbo Codes & Iterative Information Processing (ISTC)
   * IEEE Vehicular Technology Conference (VTC)
   * IEEE International Conference on Wireless Communications and Signal Processing (WCSP)
   * IEEE/CIC International Conference on Communications in China (ICCC)
+ 
+Awards & Honors
+======
+* Academic Honors:
+  * 2024 IEEE SPS Best PhD Dissertation Award, IEEE Signal Processing Society
+  * Humboldt Research Fellowship for postdoctoral researchers, Individual Fellowship, 2022
+  * World's Top 2% Scientists by Stanford University for citation impact (2022, 2024)
+  * IEEE WCSP Best Paper Award (2022)
+  * Excellent Papers of the 19th Academic Annual Conference of Shanghai Communication Society (2023)
+  * Exemplary Reviewers for IEEE Transactions on Communications (2022), IEEE Communication Letters (2021, 2023), and IEEE Wireless Communication Letters (2021, 2022)
+
+* Scholarships:
+  * Full Ph.D. Scholarship, Queen Mary University of London, UK, 2019–2022
+  * Graduate School Research Scholarship, Beijing Institute of Technology, China, 2018
+  * First-Class Study Scholarship, Beijing Institute of Technology, China, (2012, 2013, 2014, 2015, 2016, 2017)
+  * National Scholarship, Beijing Institute of Technology, 2014
+  * National Encouragement Scholarship, Beijing Institute of Technology, (2012, 2013)

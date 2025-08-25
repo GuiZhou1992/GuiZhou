@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical Engineering & Computer Sciences, Queen Mary University of London (QMUL), UK,
-2022 (expected)
+2022
 * M.S. in Information & Communication Engineering, Beijing Institute of Technology (BIT), China,
 2019
 * B.S. in Information Countermeasure Technology, Beijing Institute of Technology, China,

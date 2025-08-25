@@ -27,5 +27,4 @@ Recent News
 - [7/2025]
 - [6/2025]
 - [5/2025]
-<img width="487" height="700" alt="image" src="https://github.com/user-attachments/assets/39ae3dc1-4303-4a14-ae93-b2ee967dee75" />
 

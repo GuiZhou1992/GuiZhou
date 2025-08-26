@@ -14,12 +14,12 @@ author_profile: true
 
 ## Seminars
 
-- **6G and Beyond: How do future communication systems enable the metaverse?**  
+- **6G Seminar on "6G and Beyond: How do future communication systems enable the metaverse?"**  
   WS 2023/2024, undergraduate/graduate course  
   Lehrstuhl für Digitale Übertragung, FAU  
   with Prof. Dr.-Ing. Robert Schober  
 
-- **IoBNT Seminar on “The Internet of BioNanoThings for Next Generation Health Care Solutions”**  
+- **IoBNT Seminar on "The Internet of BioNanoThings for Next Generation Health Care Solutions"**  
   WS 2024/2025, undergraduate/graduate course  
   Lehrstuhl für Digitale Übertragung, FAU  
   with Prof. Dr.-Ing. Robert Schober  

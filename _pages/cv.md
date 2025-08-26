@@ -13,10 +13,10 @@ Education
 ======
 * Ph.D in Electrical Engineering & Computer Sciences, Queen Mary University of London (QMUL), UK,
 2022
-  * Supervisor: Prof. Cunhua Pan
+  * Supervisor: [Prof. Cunhua Pan](https://radio.seu.edu.cn/newenglish/pch_en/main.psp)
 * M.S. in Information & Communication Engineering, Beijing Institute of Technology (BIT), China,
 2019
-  * Supervisor: Prof. Chengwen Xing
+  * Supervisor: [Prof. Chengwen Xing](https://pure.bit.edu.cn/en/persons/chengwen-xing)
 * B.S. in Information Countermeasure Technology, Beijing Institute of Technology, China,
  2015
 
@@ -26,17 +26,17 @@ Work experience
    * School of Information, Electronics and Communications, Huazhong University of Science and Technology (HUST), China.
 * 03/2025 - 08/2025:  Exchange Staff
    * Ranplan Wireless - Telecommunication Company, UK.
-   * Supervisor: Prof. Jie Zhang
+   * Supervisor: [Prof. Jie Zhang](https://www.ranplanwireless.com/team/jie-zhang)
 * 07/2024 - 08/2025:  Research Postdoc
    * Institution of Digital Communications, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU),     
    Germany.
-   * Supervisor: Prof. Robert Schober
+   * Supervisor: [Prof. Robert Schober](https://www.idc.tf.fau.eu/person/robert-schober/)
 * 07/2022 – 06/2024:  Humboldt Postdoc (Humboldt Research Fellowship)
    * Institution of Digital Communications, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany.
-   * Supervisor: Prof. Robert Schober
+   * Supervisor: [Prof. Robert Schober](https://www.idc.tf.fau.eu/person/robert-schober/)
 * 10/2018 – 04/2019:  Visiting student (Research Studentship from BIT)
    * Department of Electrical & Electronic Engineering, Imperial College London, UK.
-   * Supervisor: Prof. Bruno Clerckx
+   * Supervisor: [Prof. Bruno Clerckx](https://profiles.imperial.ac.uk/b.clerckx)
 
 Publications
 ======
@@ -44,9 +44,9 @@ Publications
   
 Talks
 ======
-* "Radar Rainbow Beams For Wideband mmWave Communication: Beam Training And Tracking", invited by [George K. Karagiannidis](http://geokarag.webpages.auth.gr/), Aristotle University of Thessaloniki, Thessaloniki, Greece, 16-06-25.
+* "Radar Rainbow Beams For Wideband mmWave Communication: Beam Training And Tracking", invited by [Prof. George K. Karagiannidis](http://geokarag.webpages.auth.gr/), Aristotle University of Thessaloniki, Thessaloniki, Greece, 16-06-25.
 * "Radar Rainbow Beams For Wideband mmWave Communication: Beam Training And Tracking", invited by [Prof. Yunfei Chen](https://www.durham.ac.uk/staff/yunfei-chen/), Durham University, Durham, UK, 03-06-25.
-* "Radar Rainbow Beams For Wideband mmWave Communication: Beam Training And Tracking", invited by [Marco Giordani](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=GIORDANI&key=65F301CAFD8465C31DDC7D892F2A4FE1), University of Padova, Padova, Italy, 08-05-25.
+* "Radar Rainbow Beams For Wideband mmWave Communication: Beam Training And Tracking", invited by [Prof. Marco Giordani](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=GIORDANI&key=65F301CAFD8465C31DDC7D892F2A4FE1), University of Padova, Padova, Italy, 08-05-25.
 * "Channel Estimation for Reconfigurable Intelligent Surface Aided Systems", invited by [Prof. Dr.-Ing. Martin Haardt](https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/fachgebiet-nachrichtentechnik/team/martin-haardt), Ilmenau University of Technology, Germany, 23-09-2024.
   
 Teaching
